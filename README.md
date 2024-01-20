@@ -30,6 +30,29 @@ Also connect the black wire to the pin you soldered.
 
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/5.jpg)
 
+Install IDE adapter
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/6.jpg)
+
+Carefully pull out the latches in the connectors, be careful not to pull too hard so as not to break them -
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/7.jpg)
+
+Insert the cables into the IDE and ROM connectors
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/8.jpg)
+
+Then you can immediately thread the cables through the top cover of the Amiga, 
+or do it later after checking. The cables must be routed through the first mesh.
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/9.jpg)
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/10.jpg)
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/11.jpg)
+
+
+
+
+
 
 
 
