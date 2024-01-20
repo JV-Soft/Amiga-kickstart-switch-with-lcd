@@ -10,3 +10,14 @@ The third board is an IDE adapter into which they are installed two IDE-SD adapt
 The fourth board is a small board for connecting to Gotek.
 
 ![Kit](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/1705765117936.jpg)
+
+Installation on Amiga:
+Take the corner pin from the kit and solder it to the second pin of the TP1 connector on the Amiga board.
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/2.png)
+
+Solder to the second pin from the left -
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/3.jpg)
+
+
