@@ -59,6 +59,16 @@ Push left button to select the kickstart you want,push right button to reset the
 
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/13.jpg)
 
+Now you can install IDE-SD adapters(IDE-SD adapters are not included)
+The IDE adapter has markings for the first contact  
+The left adapter is face up and the right adapter is face down
+They should be installed like this -
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/14.jpg)
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/15.jpg)
+
+
+
 
 
 
