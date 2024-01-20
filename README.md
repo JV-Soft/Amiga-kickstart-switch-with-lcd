@@ -8,3 +8,5 @@ The kit consists of a main control board on an STM32 microcontroller, this board
 The second board, which is installed instead of two standard Kickstart microcircuits, contains 4 ROMs
 The third board is an IDE adapter into which they are installed two IDE-SD adapters, for SD cards you can switch boot between two different OS
 The fourth board is a small board for connecting to Gotek.
+
+(https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/1705765117936.jpg)
