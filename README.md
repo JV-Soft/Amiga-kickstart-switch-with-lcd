@@ -9,4 +9,4 @@ The second board, which is installed instead of two standard Kickstart microcirc
 The third board is an IDE adapter into which they are installed two IDE-SD adapters, for SD cards you can switch boot between two different OS
 The fourth board is a small board for connecting to Gotek.
 
-(https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/1705765117936.jpg)
+![Kit](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/1705765117936.jpg)
