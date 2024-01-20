@@ -49,6 +49,17 @@ or do it later after checking. The cables must be routed through the first mesh.
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/10.jpg)
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/11.jpg)
 
+Connect the IDE cable to the IDE adapter and the ROM cable to the ROM adapter
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/12.jpg)
+
+Now you can turn on the Amiga and check the operation of the kickstart switch
+When you turn it on for the first time, the current version of kickstart will be displayed on the screen.
+Push left button to select the kickstart you want,push right button to reset the Amiga.
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/13.jpg)
+
+
 
 
 
