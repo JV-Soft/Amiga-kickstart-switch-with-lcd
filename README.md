@@ -20,4 +20,20 @@ Solder to the second pin from the left -
 
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/3.jpg)
 
+Take the ROM adapter, turn it over and connect the black wire to the Reset pin
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/4.jpg)
+
+Install the ROM adapter in the Amiga, the first contacts should be empty, 
+the adapter has fewer contacts than the panel in the Amiga, as is the case with the native kickstart.
+Also connect the black wire to the pin you soldered.
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/5.jpg)
+
+
+
+
+
+
+
 
