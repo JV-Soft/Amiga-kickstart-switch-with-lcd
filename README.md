@@ -67,6 +67,33 @@ They should be installed like this -
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/14.jpg)
 ![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/15.jpg)
 
+Now you can connect the Gotek control if you need it, there is a special adapter for this.
+There are a lot of Gotek options, but the essence comes down to taking signals
+at the encoder connection point and two signals for the LCD screen.
+The encoder has 5 pins, 3 pins on one side are rotation,
+two pins on the other side are the button when you press the encoder.
+The encoder needs to be unsoldered, and the original Gotek LCD screen must be turned off or removed.
+
+Here is the connection diagram -
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/16_2.jpg)
+
+This requires certain skills. Find the documentation for your Gotek model so you know where these connection points are.
+In my case it turned out like this -
+
+![](https://github.com/JV-Soft/Amiga-kickstart-switch-with-lcd/blob/main/Pictures/17.jpg)
+
+After that, connect the cable to this small board and connect it to the main board in the IDE connector,
+after that, when you select ROM, you will see information about the ROM
+, and after resetting, the screen will display information from Gotek
+
+
+
+
+
+
+
+
 
 
 
